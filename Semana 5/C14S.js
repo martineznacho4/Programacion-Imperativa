@@ -256,3 +256,19 @@ cuentaPorTipo(arrayCuentas, "Deshabilitadas")
 // Obtener la cuenta con el menor saldo.
 
 // Obtener la cuenta con el mayor saldo.
+
+let array = []
+let elemento = []
+
+array.push(elemento)
+[[1,2,3]]
+
+array.push(elemento)
+[[1,2,3,4,5,6,7,8,9,10],[11,12,13]]
+
+el = []
+for (let i = 1; i <= 100; i++) {
+    
+    
+}
+el = [11,12,13,14]
